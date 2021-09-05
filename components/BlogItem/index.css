@@ -1,0 +1,31 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.row-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 25px;
+  font-weight: 600;
+}
+.date {
+  color: #9aa5b1;
+  font-size: 16px;
+  margin-bottom: 7px;
+}
+.description {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.line {
+  height: 1px;
+  color: #9aa5b1;
+  width: 100%;
+  font-size: 1px;
+  margin-top: 5px;
+}

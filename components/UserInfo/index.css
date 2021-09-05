@@ -1,0 +1,21 @@
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-image {
+  height: 140px;
+  width: 140px;
+}
+.name {
+  color: #12022f;
+  font-size: 28px;
+  font-weight: 800;
+  font-family: 'roboto';
+}
+.job {
+  color: #616e7c;
+  font-size: 18px;
+  margin-top: 0px;
+}
